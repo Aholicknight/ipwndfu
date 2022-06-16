@@ -35,6 +35,8 @@
 
 5. Run ```./ipwndfu --demote``` to demote device and enable JTAG.
 
+6. Run ```./ipwndfu -p --rmsigchecks``` to remove SecureROM signature checks (t7000, s8000, s8003) 
+
 
 ## Features
 
